@@ -1,0 +1,2 @@
+# TopDown_Shoot
+O repositório é referente a um protótipo de mecânicas top down feito em Unity3D com C#. Ele contém os scripts de movimentação de personagem, tiro com o uso de RayCast e tiro com o instanciamento de uma bullet prefab. A bullet prefab atrai os inimigos para si simulando um tiro gravitacional.  A câmera é simples e posicionada manualmente. No protótipo a mira do usuário está sempre no mouse, fazendo com que o objeto jogador gire sempre em Y procurando a posição do mouse, assim sempre mirando para esta posição. 
